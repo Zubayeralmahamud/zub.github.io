@@ -5,6 +5,7 @@ const buttonsData = {
         { url: 'https://widespreadcomponent.com/u78iskuszh?key=89d7346e4bbb60e86b3209c6c55eac73', label: 'Server 2', newTab: true },
 { url: 'https://dash-hex.pages.dev/zig', label: 'Server 3' },
 { url: 'https://dash-hex.pages.dev/ad1', label: 'Server 4' },
+{ url: 'https://dash-hex.pages.dev/ad1', label: 'Server 4' },
     ]
 };
 
