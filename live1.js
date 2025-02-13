@@ -1,7 +1,7 @@
 // Streaming URLs and labels
 const buttonsData = {
     'HD': [
-{ url: 'https://dash-hex.pages.dev/ADB?c=https://powerover.online/live2/stream46.php', label: 'Server 1' },
+{ url: 'https://embedme.top/embed/alpha/al-ahli-vs-al-nassr/1', label: 'Server 1' },
         { url: 'https://widespreadcomponent.com/u78iskuszh?key=89d7346e4bbb60e86b3209c6c55eac73', label: 'Server 2', newTab: true },
 { url: 'https://dash-hex.pages.dev/zig', label: 'Server 3' },
 { url: 'https://dash-hex.pages.dev/ad1', label: 'Server 4' },
